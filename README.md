@@ -12,5 +12,5 @@
 #### **Back_End**
 <img src="https://img.shields.io/badge/Firebase-3E31DC?style=flat&logo=FireBase&logoColor=fff" /> <img src="https://img.shields.io/badge/Node.js-DC5B1B?style=flat&logo=Node.js&logoColor=white" />  <img src="https://img.shields.io/badge/MongoDB-1AC8CD?style=flat&logo=MongoDB&logoColor=white" /> <img src="https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue" />
 
-### ** Tool**
+#### **Tools**
 <img src="https://img.shields.io/badge/Notion-000?style=flat&logo=Notion&logoColor=#000000" /> <img src="https://img.shields.io/badge/Git-000?style=flat&logo=Git&logoColor=" />
